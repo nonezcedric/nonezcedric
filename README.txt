@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @nonezcedric
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-nonezcedric/nonezcedric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This GitHub repository contains coding projects that i wrote, either for university or personal use. 
+Here is an overview of what my codes do and how they operate:
+
+Peaks.java:
+
