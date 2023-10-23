@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// a project that manipulates an array of data inputted by the user. 
 public class Peaks{
     public static int numPeaks(int[] data){
         // returns the number of "peaks" in the input data
